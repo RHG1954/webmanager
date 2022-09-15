@@ -11,3 +11,11 @@ Go to the server you are using
 
 Start apache server and mysql server
 
+open phpmyadmin 
+
+create new database 
+
+upload database file shop_db.sql
+
+
+
