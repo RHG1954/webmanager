@@ -17,5 +17,10 @@ create new database
 
 upload database file shop_db.sql
 
+config file config.PhP
 
+ 
+ <?php
+$conn = mysqli_connect('localhost','root','','namedatabase') or die('connection failed');
+?>
 
